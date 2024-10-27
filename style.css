@@ -1,0 +1,65 @@
+.mcontainer{
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+.candy{
+    margin: 3px;
+    border-radius: 5px;
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+body{
+    background-color: #1E1E1E;
+    background-image: url('Star 3.png');
+    background-repeat: space;
+    background-size: 250px;
+}
+.text1{
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 40px;
+    text-decoration: none;
+
+}
+.text2{
+    color: #bfbfbf ;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 40px;
+    text-decoration: none;
+
+}
+.text3{
+    color: #555050 ;
+    font-family: monseratr;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 40px;
+    background-color: #1E1E1E;
+    border: 1px solid #070707;
+    border-radius: 10px 10px;
+    
+
+}
+
+.mandyxchester{
+    display:block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+nav{
+    position: relative;
+    margin: 20px auto;
+    display: inline;
+    margin-bottom: 20px;
+}
+
+.button{
+    border: 1px solid palevioletred ;
+    border-radius: 5px 10px;
+    background-color: white;
+    
+}
